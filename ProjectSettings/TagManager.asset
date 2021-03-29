@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Traps
+  - Game Manager
+  - RegionCameraSwitcher
+  - EnemySpawner
+  - EnemySpawnPoints
+  - Enemy
+  - Ground
+  - Bounds
+  - SavePoint
+  - PathFinder
+  - AudioManager
+  - Coin
+  - PlayerCircleCollider
+  - Lever
+  - GateBorder
+  - Teleporter
+  - SlipperyFloor
+  - Metal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerProjectile
+  - Ground
+  - Enemy
+  - Traps
+  - RegionDividers
+  - PlayerQuad
+  - Grass
+  - PlayerHurt
+  - PickUpCollider
+  - PlayerCircleCollider
+  - PickUpItem
+  - Spell
+  - RegionColliders
+  - EnemyFireball
+  - Doors
+  - Lever
+  - SavePoint
+  - Teleporter
+  - SlipperyFloor
+  - MetalFloor
+  - EnemyDash
+  - BossMetalSpawn
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 634991805
+    locked: 0
+  - name: Foreground
+    uniqueID: 1743812097
+    locked: 0
+  - name: EnvironmentBackGround
+    uniqueID: 1697504355
+    locked: 0
+  - name: LevelBackGround
+    uniqueID: 400559361
+    locked: 0
+  - name: Player
+    uniqueID: 701752801
+    locked: 0
+  - name: Enemies
+    uniqueID: 3642627649
+    locked: 0
+  - name: LevelForeground
+    uniqueID: 1208299331
+    locked: 0
+  - name: EnvironmentForeground
+    uniqueID: 256778509
+    locked: 0
+  - name: PickUps
+    uniqueID: 1184860225
+    locked: 0
